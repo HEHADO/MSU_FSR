@@ -1,6 +1,6 @@
-#Репозиторий для работ ФКИ МГУ   
+# Репозиторий для работ ФКИ МГУ   
 
-
+![alt text](https://github.com/HEHADO/MSU_FSR/blob/main/images/pracks/logo.png)
 ###### [Read this in *English*][eng]
 
 ----
