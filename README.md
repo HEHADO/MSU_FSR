@@ -1,28 +1,11 @@
-# Практикум на языках C/C++
+#Репозиторий для работ ФКИ МГУ   
 
 
 ###### [Read this in *English*][eng]
 
-
-![alt text](logo.png)
-
-![GitHub language count](https://img.shields.io/github/languages/count/HEHADO/AntonBalanovskiy?color=purple&logo=github&logoColor=black)
-![GitHub top language](https://img.shields.io/github/languages/top/HEHADO/AntonBalanovskiy?color=purple)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HEHADO/AntonBalanovskiy?color=purple&logo=github&logoColor=black)
-![GitHub repo size](https://img.shields.io/github/repo-size/HEHADO/AntonBalanovskiy?color=purple&logo=github&logoColor=black)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/HEHADO/AntonBalanovskiy?color=purple&logo=github)
-
-   `Этот репозиторий содержит задания по практикуму за 3 и 4 семестр`
-
 ----
-- 3 семестр
-    - [***Shell***][sh]
-    - [Перекодировщик][p2]
-    - [Частотное дерево][p1]
-- 4 семестр
-    - [***Модельный веб сервер***][serv]
-    - [Високосные года][p4]
-    - [Система классов][p3]
+- 6 семестр
+    - [Курсовая][sh]
 
 [eng]: README.en.md
 [sh]: https://github.com/HEHADO/AntonBalanovskiy/blob/shell.4/shelltree.c
