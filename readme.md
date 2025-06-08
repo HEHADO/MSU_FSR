@@ -8,7 +8,7 @@
     - [Курсовая][C]
 
 [eng]: README.en.md
-[C]: Cousevork/6sem
+[C]: Coursework/6sem
 [p1]: https://github.com/HEHADO/AntonBalanovskiy/blob/master/prac.1.c
 [p2]: https://github.com/HEHADO/AntonBalanovskiy/tree/master/%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA
 [p3]: https://github.com/HEHADO/AntonBalanovskiy/tree/master/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B
